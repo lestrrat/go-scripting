@@ -2,6 +2,10 @@
 
 Handy toolset when using Go as a shell script replacement
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/scripting](https://github.com/lestrrat-go/scripting). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 # CAVEAT EMPTOR
 
 The API is still very unstable.
